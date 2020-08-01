@@ -1,0 +1,8 @@
+name: Spleef-Spigot
+main: me.bramhaag.spleef.SpleefPlugin
+version: 1.0.0
+author: bramhaag
+api-version: 1.16
+commands:
+  spleef:
+    description: Join a spleef game

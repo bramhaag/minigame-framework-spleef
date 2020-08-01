@@ -1,0 +1,7 @@
+name: Spleef-Nukkit
+main: me.bramhaag.spleef.SpleefPlugin
+version: 1.0.0
+author: bramhaag
+commands:
+  spleef:
+    description: Join a spleef game
